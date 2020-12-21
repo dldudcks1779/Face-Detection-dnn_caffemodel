@@ -17,8 +17,6 @@
   * ##### 설치 : https://blog.naver.com/dldudcks1779/222020005648
 * #### imutils
   * ##### 설치 : sudo pip3 install imutils
-* #### face_recognition
-  * ##### 설치 : sudo pip3 install face_recognition
   
 ---
 ## 이미지 얼굴 인식
