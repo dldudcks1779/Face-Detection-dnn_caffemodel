@@ -6,9 +6,9 @@
 
 ## DNN(Deep Neural Networks)를 이용한 Face Detection
 * #### OpenCV dnn 모듈 : 학습된 모델을 불러와서 실행하는 방식
-* ##### caffemodel 파일 : 얼굴 인식을 위해 ResNet 기본 네트워크를 사용하는 SSD(Single Shot Detector) 프레임워크를 통해 사전 훈련된 모델 가중치 사용
-  * ##### ResNet : https://blog.naver.com/dldudcks1779/222112744384
-* ##### prototxt 파일 : 모델의 레이어 구성 및 속성 정의
+  * ##### caffemodel 파일 : 얼굴 인식을 위해 ResNet 기본 네트워크를 사용하는 SSD(Single Shot Detector) 프레임워크를 통해 사전 훈련된 모델 가중치 사용
+    * ##### ResNet : https://blog.naver.com/dldudcks1779/222112744384
+  * ##### prototxt 파일 : 모델의 레이어 구성 및 속성 정의
 
 ---
 ### 실행 환경
